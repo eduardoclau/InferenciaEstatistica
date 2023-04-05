@@ -10,5 +10,5 @@ def conf_interval_prop(p, n, level):
     return lower_bound, upper_bound
 
 
-# resultado = conf_interval_prop()
-# print(resultado)
+resultado = conf_interval_prop()
+print(resultado)
