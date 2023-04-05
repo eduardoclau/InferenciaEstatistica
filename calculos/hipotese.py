@@ -3,7 +3,7 @@ from scipy.stats import t
 
 # Amostra de Dados
 
-x = [8, 9, 5, 7, 8, 12, 6, 9, 6, 10]
+x = [   ]
 
 
 # Média da Amostra de Dados
@@ -29,7 +29,7 @@ def calc_t_value(x, u0, s, n):
 
 # Valor de "t"
 
-t_value = calc_t_value(x_bar, 7, desvioPadrao, len(x))
+t_value = calc_t_value(x_bar, ' ', desvioPadrao, len(x))
 print('O valor de "t" é:', t_value)
 
 
