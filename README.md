@@ -6,6 +6,7 @@ Código para resolução de CÁLCULOS para Inferência Estatística:
 - TESTE DE HIPÓTESES
 
 # STATISTICAL INFERENCE 
+
 Code for solving STATISTICAL INFERENCE calculations:
 
 - CONFIDENCE INTERVAL FOR MEAN + MARGIN OF ERROR
